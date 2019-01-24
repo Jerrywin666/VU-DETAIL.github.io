@@ -11,9 +11,9 @@ permalink: /people/
 [Dongning Ma (2019 Spring - )](./dma)
 ### Master Students
 ### Undergraduate Students
-[Shenda Huang (2018 Fall - )](./shuang)
+[Shenda Huang (2019 Spring - )](./shuang)
 
-[Xingjiang Wang (2018 Fall - )](./xwang)
+[Xingjiang Wang (2019 Spring - )](./xwang)
 ### Visiting Scholars
 
 ## Alumni
