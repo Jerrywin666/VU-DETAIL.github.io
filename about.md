@@ -5,6 +5,7 @@ permalink: /about/
 ---
 
 ## About
+Led by [Dr. Xun Jiao](http://www.ece.villanova.edu/~xjiao/), assistant professor of Electrical and Computer Engineering, the Dependable, Efficient, and Intelligent Computing Lab (DETAIL) at the Villanova University uses the software-hardware codesign approach to build dependable and efficient computing systems for the applications of machine intelligence. Prospective students who are interested in joining our lab should check out our research page. We are always looking for good students.
 
 ## Direction
 
