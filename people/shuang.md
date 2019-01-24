@@ -4,7 +4,7 @@ title: Shenda Huang
 permalink: /people/shuang
 ---
 # Shenda Huang
-First-Year Undergraduate (Since 2018 Fall)
+First-Year Undergraduate (Since 2019 Spring)
 
 [Department of Electrical and Computer Engineering](https://www1.villanova.edu/villanova/engineering/departments/ece.html)
 
