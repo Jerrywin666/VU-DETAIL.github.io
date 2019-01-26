@@ -25,7 +25,7 @@ Dongning Ma is a **Ph.D.** candidate in Computer Engineering (CE) from [Departme
 ### Teaching
 1. In Villanova University:
 	1. Teaching Assistant for ECE 2431 - Embedded Systems I Lab (Spring 2019)
-
+	1. 
 ### Honor and Awards
 1. During B.Eng.
 	1. USTB Scholarship for Outstanding Freshmen (2014)
