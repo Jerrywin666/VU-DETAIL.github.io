@@ -3,13 +3,12 @@ layout: page
 title: People
 permalink: /people/
 ---
-## Principal Investigator
+## Principal Faculty
 [Xun Jiao](http://www.ece.villanova.edu/~xjiao/)
 
-## Members
 ### Ph.D. Students
 [Dongning Ma (2019 Spring - )](./dma)
-### Master Students
+
 ### Undergraduate Students
 [Shenda Huang (2019 Spring - )](./shuang)
 
