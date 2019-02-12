@@ -3,7 +3,7 @@ layout: page
 title: People
 permalink: /people/
 ---
-## Principal Faculty
+## Faculty
 [Xun Jiao](http://www.ece.villanova.edu/~xjiao/)
 
 ### Ph.D. Students
