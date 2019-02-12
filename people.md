@@ -15,6 +15,3 @@ permalink: /people/
 [Xingjiang Wang (2019 Spring - )](./xwang)
 
 [Vu Tran (2018 Fall - )](./vtran)
-### Visiting Scholars
-
-## Alumni
