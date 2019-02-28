@@ -4,7 +4,7 @@ title: "[NEWS] Shenda Huang receives First Year Student Research Match Program f
 date: 2019-02-27 21:08:30 -0500
 
 ---
-[Villanova Match Research Program for First Year Students](https://www1.villanova.edu/villanova/provost/crf/undergraduate-research/villanova-match-research-program.html)
+[**Villanova Match Research Program for First Year Students**](https://www1.villanova.edu/villanova/provost/crf/undergraduate-research/villanova-match-research-program.html)
 
 **Energy-efficient Neural Networks with Low-precision Parameters**
 
