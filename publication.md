@@ -48,7 +48,7 @@ IEEE Transaction on Industry Electronics (TIE) 2013.
 
   - Yu Jiang, Hehua Zhang, Xun Jiao, Xiaoyu Song, William N.Hung, Ming Gu, and Jiaguang Sun.
   Uncertain Model and Algorithm for Hardware/Software Partitioning. [PDF](http://www.ece.villanova.edu/~xjiao/paper/ISVLSI.pdf)
-  in Proc. IEEE Computer Society Annual Symposium on VLSI (ISVLSI),2012.
+  in Proc. IEEE Computer Society Annual Symposium on VLSI (ISVLSI), 2012.
 
   - Hehua Zhang, Yu Jiang, Xun Jiao, Xiaoyu Song, William N.Hung, and Ming Gu. 
   Reliability Analysis of PLC Systems by Bayesian Network. [PDF](http://www.ece.villanova.edu/~xjiao/paper/SERE.pdf)
