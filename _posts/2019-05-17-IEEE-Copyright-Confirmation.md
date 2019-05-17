@@ -5,4 +5,4 @@ date: 2019-05-17 12:12:01 -0800
 
 ---
 
-[PDF](http://VU-DETAIL.github.io/_res/ICESS_2019.pdf)
+[PDF](https://github.com/VU-DETAIL/VU-DETAIL.github.io/blob/master/_res/ICESS_2019.pdf)
