@@ -18,11 +18,10 @@ IEEE Transaction on Industry Electronics (TIE) 2013.
   Hindawi, Journal of Applied Mathematics, 2013.
 
 ## Conference
-  - Dongning Ma, Xun Jiao,  Energy Efficient GPU Applications Through Computation Skip. [PDF](https://www.dropbox.com/s/z6r56wshgtzmqo8/ICESS_2019_Final.pdf?dl=0) in Proc. IEEE International Conference on Embedded     Software and Systems(ICESS), Las Vegas, USA, 2019.
+   - Yuanliang Chen, Yu Jiang, Fuchen Ma, Jie Liang, Mingzhe Wang, Chijin Zhou, Xun Jiao, and Zuo Su 
+  EnFuzz: Ensemble Fuzzing with Seed Synchronization among Diverse Fuzzers. [PDF](http://www.ece.villanova.edu/~xjiao/paper/Security19.pdf) in Proc. USENIX Security Symposium (USENIX Security), USA, 2019.
   
-  - Yuanliang Chen, Yu Jiang, Fuchen Ma, Jie Liang, Mingzhe Wang, Chijin Zhou, Xun Jiao, and Zuo Su 
-  EnFuzz: Ensemble Fuzzing with Seed Synchronization among Diverse Fuzzers. [PDF](http://www.ece.villanova.edu/~xjiao/paper/EnFuzz_final.pdf) 
-  in Proc. USENIX Security Symposium (USENIX Security), USA, 2019.
+  - Dongning Ma, Xun Jiao,  Energy Efficient GPU Applications Through Computation Skip. [PDF](http://www.ece.villanova.edu/~xjiao/paper/ICESS19.pdf) in Proc. IEEE International Conference on Embedded Software and   Systems(ICESS), Las Vegas, USA, 2019.
   
   - Xun Jiao, Vahideh Akhlaghi, Yu Jiang, and Rajesh Gupta
   Energy-Efficient Neural Networks using Approximate Computation Reuse. [PDF](http://mesl.ucsd.edu/pubs/Xun_DATE2018.pdf)
