@@ -57,3 +57,6 @@ IEEE Transaction on Industry Electronics (TIE) 2013.
   - Hehua Zhang, Yu Jiang, Xun Jiao, Xiaoyu Song, William N.Hung, and Ming Gu. 
   Reliability Analysis of PLC Systems by Bayesian Network. [PDF](http://www.ece.villanova.edu/~xjiao/paper/SERE.pdf)
   in Proc. International Conference on Software Security and Reliability (SERE) 2012.
+  
+  - Dongning Ma, Xun Jiao,  Energy Efficient GPU Applications Through Computation Skip. [PDF](ttps://www.dropbox.com/s/z6r56wshgtzmqo8/ICESS_2019_Final.pdf?dl=0)in Proc. IEEE International Conference on Embedded Software and Systems, Las Vegas, USA, 2019.
+
