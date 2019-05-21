@@ -12,7 +12,7 @@ permalink: /people/
 ### Undergraduate Students
 [Raymond Ogunjimi (Hoffman Trailblazer Summer Research Fellowship)](./rogunjim)
 
-[Shenda Huang (Villanova Match Research Fellowship for First Year Students)](./shuang)
+[Shenda Huang (Villanova Match Research Program for First Year Students)](./shuang)
 
 [Xingjiang Wang (Villanova Undergraduate Research Fellowship)](./xwang)
 
