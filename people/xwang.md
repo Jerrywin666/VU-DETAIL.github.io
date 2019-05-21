@@ -6,6 +6,8 @@ permalink: /people/xwang
 # Xingjian Wang
 First-Year Undergraduate (Since 2019 Spring)
 
+[Villanova Undergraduate Research Fellowship](https://www1.villanova.edu/villanova/provost/crf/undergraduate-research/villanova-undergraduate-research-fellows-vurf.html)
+
 [Department of Electrical and Computer Engineering](https://www1.villanova.edu/villanova/engineering/departments/ece.html)
 
 [Computer Engineering](https://www1.villanova.edu/villanova/engineering/departments/ece/undergrad/bachelors-cpe.html)
