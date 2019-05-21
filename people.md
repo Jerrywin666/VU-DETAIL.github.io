@@ -7,13 +7,13 @@ permalink: /people/
 [Xun Jiao](http://www.ece.villanova.edu/~xjiao/)
 
 ### Ph.D. Students
-[Dongning Ma (2019 Spring - )](./dma)
+[Dongning Ma](./dma)
 
 ### Undergraduate Students
-[Raymond Ogunjimi (2019 Summer - )](./rogunjim)
+[Raymond Ogunjimi (Hoffman Trailblazer Summer Research Fellowship)](./rogunjim)
 
-[Shenda Huang (2019 Spring - )](./shuang)
+[Shenda Huang (Villanova Match Research Fellowship for First Year Students)](./shuang)
 
-[Xingjiang Wang (2019 Spring - )](./xwang)
+[Xingjiang Wang (Villanova Undergraduate Research Fellowship)](./xwang)
 
-[Vu Tran (2018 Fall - )](./vtran)
+[Vu Tran](./vtran)
