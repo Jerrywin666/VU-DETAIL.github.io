@@ -60,4 +60,4 @@ IEEE Transaction on Industry Electronics (TIE) 2013.
   in Proc. International Conference on Software Security and Reliability (**SERE**), 2012.
 
 ## Presentation
-  - "Approximate Computing for the Internet of Things: from Circuits to Applications", The Fourth IEEE International Workshop on Design   Automation for Cyber-Physical Systems (**DACPS**), Las Vegas, USA, 2019. [slides](https://vu-detail.github.io/publication/_res/DACPS_v7.pdf)
+  - "Approximate Computing for the Internet of Things: from Circuits to Applications", The Fourth IEEE International Workshop on Design   Automation for Cyber-Physical Systems (**DACPS**), Las Vegas, USA, 2019. [slides](_res/DACPS_v7.pdf)
