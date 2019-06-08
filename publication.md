@@ -61,4 +61,4 @@ IEEE Transaction on Industry Electronics (TIE) 2013.
 
 ## Presentation
   - "Approximate Computing for the Internet of Things: from Circuits to Applications", The Fourth IEEE International Workshop on Design   Automation for Cyber-Physical Systems (**DACPS**), Las Vegas, USA, 2019. 
-  [slides](https://vu-detail.github.io/_res/DACPS_v7.pdf)
+  [slides](http://www.ece.villanova.edu/~xjiao/paper/DACPS.pdf)
