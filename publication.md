@@ -20,7 +20,7 @@ IEEE Transaction on Industry Electronics (TIE) 2013.
 ## Conference
   - Dongning Ma, Xun Jiao, Detecting and Bypassing Trivial Computations in Convolutional Neural Networks, IEEE/ACM International     Symposium on Nanoscale Architectures (**NANOARCH**), 2019
   
-  - Yu Jiang, Mingzhe Wang, Xun Jiao, Houbing Song, Hui Kong, Rui Wang, Yongxin Liu, Jian Wang, Jiaguang Sun, Uncertainty Theory Based Reliability-Centric Cyber-Physical System Design, Proc. IEEE International Conference on Cyber-Physical and Social Computing (**CPSCom**), 2019. Best Paper Award.
+  - Yu Jiang, Mingzhe Wang, Xun Jiao, Houbing Song, Hui Kong, Rui Wang, Yongxin Liu, Jian Wang, Jiaguang Sun, Uncertainty Theory Based Reliability-Centric Cyber-Physical System Design, Proc. IEEE International Conference on Cyber-Physical and Social Computing (**CPSCom**), 2019. **Best Paper Award**.
   
   - Heyuan Shi, Runzhe Wang, Ying Fu, Mingzhe Wang, Xiaohai Shi, Xun Jiao, Houbing Song, Yu Jiang, Jiaguang Sun, Industry Practice of Coverage-guided Enterprise Linux Kernel Fuzzing, ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (**ESEC/FSE**), 2019
 
