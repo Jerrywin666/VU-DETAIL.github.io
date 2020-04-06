@@ -4,7 +4,7 @@ title: Xingjian Wang
 permalink: /people/xwang
 ---
 # Xingjian Wang
-First-Year Undergraduate (Since 2019 Spring)
+-Year Undergraduate (Since 2019 Spring)
 
 [Villanova Undergraduate Research Fellowship](https://www1.villanova.edu/villanova/provost/crf/undergraduate-research/villanova-undergraduate-research-fellows-vurf.html)
 
